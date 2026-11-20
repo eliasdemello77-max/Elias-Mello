@@ -17,3 +17,4 @@ Plataforma de tecnologia voltada à gestão operacional de transportadoras, com 
 Transformar a gestão de transportes por meio da tecnologia, inteligência e propósito.
 
 
+
